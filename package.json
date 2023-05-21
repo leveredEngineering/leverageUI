@@ -1,0 +1,19 @@
+{
+  "name": "leverageui",
+  "version": "0.0.0",
+  "description": "a library of pre-configured react tailwind components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leveredEngineering/leverageUI.git"
+  },
+  "author": "Tyler Redshaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leveredEngineering/leverageUI/issues"
+  },
+  "homepage": "https://github.com/leveredEngineering/leverageUI#readme"
+}
