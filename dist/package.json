@@ -1,6 +1,6 @@
 {
   "name": "leverageui",
-  "version": "0.0.8",
+  "version": "0.0.7",
   "description": "a library of pre-configured react tailwind components",
   "main": "index.js",
   "scripts": {
