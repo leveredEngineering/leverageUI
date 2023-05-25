@@ -1,6 +1,6 @@
 {
   "name": "leverageui",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "a library of pre-configured react tailwind components",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@material-tailwind/react": "^2.0.1"
   }
 }
