@@ -13,7 +13,7 @@
     "rootDir": "./src",
     "outDir": "./dist/esm",
     "strict": true,
-    "noImplicitReturns": true,
+    "noImplicitReturns": false,
     "noFallthroughCasesInSwitch": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,

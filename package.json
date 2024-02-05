@@ -1,6 +1,6 @@
 {
   "name": "leverageui",
-  "version": "0.0.15",
+  "version": "0.0.22-debug",
   "description": "My first react typescript package",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -53,5 +53,8 @@
     "react-dom": "^18.1.0",
     "ts-jest": "^28.0.4",
     "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "@yext/pages-components": "^1.0.0-rc.1"
   }
 }
